@@ -2,7 +2,14 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div>NavBar</div>
+    <div className="navbar">
+
+        <div className="leftSide">
+            <img src={} />
+        </div>
+        <div className="rightSide"></div>
+
+    </div>
   )
 }
 
